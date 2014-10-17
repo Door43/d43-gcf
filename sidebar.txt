@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gcf:home|Door43 (gcf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gcf|d43-gcf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gcf/archive/master.zip|d43-gcf.zip]]
+
+**Recent Changes**
+{{changes>ns = gcf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gcf|Ethnologue data]]
+
